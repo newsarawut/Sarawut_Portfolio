@@ -62,7 +62,7 @@ export const experienceData = [
   },
   {
     position: "Basic Full Stack Web Developer",
-    place: "Make Web By BKK",
+    place: "Make Web BKK",
     startDate: "January 2023",
     endDate: "March 2023",
     description: [
